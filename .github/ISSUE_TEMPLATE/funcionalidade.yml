@@ -1,7 +1,6 @@
 name: Funcionalidade
 description: Proponha uma funcionalidade ou melhoria para o PRISMA
 title: "feat: "
-labels: ["funcionalidade"]
 body:
   - type: textarea
     id: necessidade
