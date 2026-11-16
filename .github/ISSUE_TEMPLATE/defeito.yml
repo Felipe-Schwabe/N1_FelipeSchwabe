@@ -1,7 +1,6 @@
 name: Defeito
 description: Relate um erro encontrado no PRISMA
 title: "fix: "
-labels: ["defeito"]
 body:
   - type: input
     id: versao
