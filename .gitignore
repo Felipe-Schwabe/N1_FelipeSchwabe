@@ -1,3 +1,20 @@
-# Godot 4+ specific ignores
+# Godot
 .godot/
-/android/
+
+# Builds geradas localmente
+/build/
+/exports/
+/dist/
+*.tmp
+*.log
+
+# Segredos e configuracoes locais
+.env
+.env.*
+!.env.example
+
+# Arquivos do sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
