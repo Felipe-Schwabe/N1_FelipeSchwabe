@@ -2,6 +2,8 @@
 .godot/
 
 # Builds geradas localmente
+/*.exe
+/*.pck
 /build/
 /exports/
 /dist/
